@@ -23,6 +23,14 @@
     height: 59px;
 }
 
+/* Navigation bar  */
+#navbar{
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    position: relative;
+}
+
 /* Navigation bar: List styling */
 #navbar ul{
     display: flex;
